@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>yandex_map</id>
+    <version>0.1</version>
+    <priority>100</priority>
+    <status>active</status>
+    <default_language>en</default_language>
+    <name>Yandex Maps</name>
+    <description>Inserts Yandex Map into page body</description>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+</addon>
