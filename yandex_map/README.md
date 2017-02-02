@@ -24,6 +24,7 @@ Allows to insert Yandex Map into a page body.
 ```
 
 Where:
+
 - `%MAP_ID` — unique map identifier (e.g. `volga`)
 - `%LATITUDE` — latitude of the map center (e.g. `54.33`)
 - `%LONGITUDE` — longitude of the map center (e.g. `48.43`)
